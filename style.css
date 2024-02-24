@@ -1,0 +1,35 @@
+body {
+    margin-top: 200px;
+    background-color: black;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 30pt;
+    font-family: 'Courier New', Courier, monospace;
+}
+.main {
+    text-align: center;
+    background-color: #595A5A;
+    margin: auto;
+    width: 50%;
+    height: 300px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: #36454F;
+    color: white;
+    color: black;
+}
+button {
+    background-color: black;
+    color: white;
+    width: 15%;
+    margin: 15px;
+    height: 35px;
+    font-size: 14pt;
+    border-radius: 7px;
+    margin-top: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid black;
+}
